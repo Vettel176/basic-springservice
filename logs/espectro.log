@@ -1,0 +1,131 @@
+2023-12-17T21:35:22.325-06:00  INFO 3412 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 with PID 3412 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17T21:35:22.331-06:00  INFO 3412 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-12-17T21:35:22.981-06:00  INFO 3412 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 1.045 seconds (process running for 1.433)
+2023-12-17T21:37:45.972-06:00  INFO 3844 --- [espectro] [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 with PID 3844 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17T21:37:45.979-06:00  INFO 3844 --- [espectro] [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-12-17T21:37:46.600-06:00  INFO 3844 --- [espectro] [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 1.066 seconds (process running for 1.397)
+2023-12-17T21:41:36.360-06:00  INFO 12532 --- [espectro] [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 with PID 12532 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17T21:41:36.362-06:00  INFO 12532 --- [espectro] [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-12-17T21:41:36.998-06:00  INFO 12532 --- [espectro] [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 1.052 seconds (process running for 1.413)
+2023-12-17T21:43:17.025-06:00  INFO 12300 --- [espectro] [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 with PID 12300 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17T21:43:17.028-06:00  INFO 12300 --- [espectro] [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-12-17T21:43:17.654-06:00  INFO 12300 --- [espectro] [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 1.04 seconds (process running for 1.445)
+2023-12-17T21:44:39.588-06:00  INFO 4196 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 with PID 4196 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17T21:44:39.594-06:00  INFO 4196 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-12-17T21:44:40.396-06:00  INFO 4196 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 1.255 seconds (process running for 1.598)
+2023-12-17T21:45:13.205-06:00  INFO 14740 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 with PID 14740 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17T21:45:13.207-06:00  INFO 14740 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-12-17T21:45:13.891-06:00  INFO 14740 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 1.093 seconds (process running for 1.498)
+2023-12-17T21:46:04.060-06:00  INFO 12420 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 with PID 12420 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17T21:46:04.063-06:00  INFO 12420 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-12-17T21:46:04.692-06:00  INFO 12420 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 1.041 seconds (process running for 1.4)
+2023-12-17T21:48:01.144-06:00  INFO 2112 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 with PID 2112 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17T21:48:01.153-06:00  INFO 2112 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-12-17T21:48:01.855-06:00  INFO 2112 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 1.2 seconds (process running for 1.598)
+2023-12-17T21:49:36.064-06:00  INFO 1564 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 with PID 1564 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17T21:49:36.068-06:00  INFO 1564 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-12-17T21:49:36.641-06:00  INFO 1564 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 1.132 seconds (process running for 1.596)
+2023-12-17 22:17:23.295  INFO 6808 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 on DESKTOP-494E4KI with PID 6808 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17 22:17:23.297  INFO 6808 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to default profiles: default
+2023-12-17 22:17:23.795  INFO 6808 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 0.983 seconds (JVM running for 1.303)
+2023-12-17 22:26:24.841  INFO 11744 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 on DESKTOP-494E4KI with PID 11744 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17 22:26:24.844  INFO 11744 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to default profiles: default
+2023-12-17 22:26:25.341  INFO 11744 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 0.989 seconds (JVM running for 1.384)
+2023-12-17 22:44:23.801  INFO 4404 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 on DESKTOP-494E4KI with PID 4404 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17 22:44:23.803  INFO 4404 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to default profiles: default
+2023-12-17 22:44:24.614  INFO 4404 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3102 (http)
+2023-12-17 22:44:24.626  INFO 4404 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-17 22:44:24.627  INFO 4404 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-12-17 22:44:24.747  INFO 4404 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-17 22:44:24.750  INFO 4404 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 892 ms
+2023-12-17 22:44:25.163  INFO 4404 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3102 (http) with context path ''
+2023-12-17 22:44:25.171  INFO 4404 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 1.851 seconds (JVM running for 2.218)
+2023-12-17 22:45:30.107  INFO 4404 --- [http-nio-3102-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-17 22:45:30.108  INFO 4404 --- [http-nio-3102-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-17 22:45:30.109  INFO 4404 --- [http-nio-3102-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-12-17 22:47:07.674  INFO 15464 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 on DESKTOP-494E4KI with PID 15464 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17 22:47:07.677  INFO 15464 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to default profiles: default
+2023-12-17 22:47:08.400  INFO 15464 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3102 (http)
+2023-12-17 22:47:08.410  INFO 15464 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-17 22:47:08.411  INFO 15464 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-12-17 22:47:08.491  INFO 15464 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-17 22:47:08.492  INFO 15464 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 765 ms
+2023-12-17 22:47:08.545  WARN 15464 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'mainController': Unsatisfied dependency expressed through field 'mainService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.store.espectro.service.MainService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2023-12-17 22:47:08.549  INFO 15464 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-17 22:47:08.561  INFO 15464 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-12-17 22:47:08.588 ERROR 15464 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field mainService in com.store.espectro.controller.MainController required a bean of type 'com.store.espectro.service.MainService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.store.espectro.service.MainService' in your configuration.
+
+2023-12-17 22:47:56.577  INFO 7544 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 on DESKTOP-494E4KI with PID 7544 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17 22:47:56.581  INFO 7544 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to default profiles: default
+2023-12-17 22:47:57.441  INFO 7544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3102 (http)
+2023-12-17 22:47:57.454  INFO 7544 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-17 22:47:57.455  INFO 7544 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-12-17 22:47:57.550  INFO 7544 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-17 22:47:57.550  INFO 7544 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 910 ms
+2023-12-17 22:47:57.608  WARN 7544 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'mainController': Unsatisfied dependency expressed through field 'mainService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.store.espectro.service.MainService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2023-12-17 22:47:57.611  INFO 7544 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-17 22:47:57.630  INFO 7544 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-12-17 22:47:57.653 ERROR 7544 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field mainService in com.store.espectro.controller.MainController required a bean of type 'com.store.espectro.service.MainService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.store.espectro.service.MainService' in your configuration.
+
+2023-12-17 22:54:15.947  INFO 14908 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 on DESKTOP-494E4KI with PID 14908 (C:\Users\SURFACE\Desktop\espectro\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\espectro\espectro)
+2023-12-17 22:54:15.949  INFO 14908 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to default profiles: default
+2023-12-17 22:54:16.737  INFO 14908 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3102 (http)
+2023-12-17 22:54:16.756  INFO 14908 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-17 22:54:16.759  INFO 14908 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-12-17 22:54:16.836  INFO 14908 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-17 22:54:16.837  INFO 14908 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 832 ms
+2023-12-17 22:54:17.239  INFO 14908 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3102 (http) with context path ''
+2023-12-17 22:54:17.250  INFO 14908 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 1.772 seconds (JVM running for 2.186)
+2023-12-17 22:56:28.296  INFO 14908 --- [http-nio-3102-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-17 22:56:28.297  INFO 14908 --- [http-nio-3102-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-17 22:56:28.299  INFO 14908 --- [http-nio-3102-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-17 22:56:28.324  INFO 14908 --- [http-nio-3102-exec-1] c.s.espectro.service.MainServiceImpl     : Start Implementation Service
+2023-12-17 23:29:53.770  INFO 2472 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 17.0.9 on DESKTOP-494E4KI with PID 2472 (C:\Users\SURFACE\Desktop\ESPECTRE\Aplicaciones\Servicio Basico Spring Maven\espectro\target\classes started by SURFACE in C:\Users\SURFACE\Desktop\ESPECTRE\Aplicaciones\Servicio Basico Spring Maven\espectro)
+2023-12-17 23:29:53.773  INFO 2472 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to default profiles: default
+2023-12-17 23:29:54.504  INFO 2472 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3102 (http)
+2023-12-17 23:29:54.514  INFO 2472 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-17 23:29:54.515  INFO 2472 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-12-17 23:29:54.602  INFO 2472 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-17 23:29:54.602  INFO 2472 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 764 ms
+2023-12-17 23:29:54.894  INFO 2472 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3102 (http) with context path ''
+2023-12-17 23:29:54.913  INFO 2472 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 1.582 seconds (JVM running for 1.988)
+2023-12-17 23:32:18.756  INFO 2472 --- [http-nio-3102-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-17 23:32:18.757  INFO 2472 --- [http-nio-3102-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-17 23:32:18.758  INFO 2472 --- [http-nio-3102-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-12-17 23:32:18.784  INFO 2472 --- [http-nio-3102-exec-1] c.s.espectro.service.MainServiceImpl     : Start Implementation Service

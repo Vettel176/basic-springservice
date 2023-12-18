@@ -1,0 +1,9 @@
+server:
+  port: 3102
+
+logging:
+  file:
+    name: logs/espectro.log
+  level:
+    org.springframework.web: 'INFO'
+    com.ppm.sgt: 'DEBUG'
