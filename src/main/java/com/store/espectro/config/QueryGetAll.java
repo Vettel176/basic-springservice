@@ -19,7 +19,7 @@ public class QueryGetAll {
 
     public List<ProductoDto> getAllProducts(){
         List<ProductoDto> listProductoDtos = new ArrayList<>();
-        ProductoDto productBD = new ProductoDto(); 
+        ProductoDto productBD;
         Connection c = null;
         Statement stmt = null;
         try{
@@ -30,6 +30,7 @@ public class QueryGetAll {
         ResultSet rs = stmt.executeQuery( "select * from store.productos;" );
 
         while ( rs.next() ) {
+            productBD = new ProductoDto(); 
             Long id        = rs.getLong("id");
             String codigo = rs.getString("codigo");
             int cantidad  = rs.getInt("cantidad");

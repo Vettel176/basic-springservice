@@ -41,6 +41,7 @@ public class QueryInsert {
             preparedStatement.executeQuery();
             logger.info("Fin excecution");
         } catch (SQLException e) {
+            mensaje = "Salieron unos errores al intentar guardar, favor de revisar.";
             logger.info("Ejecucion con advetencia.");
             // print SQL exception information
             printSQLException(e);

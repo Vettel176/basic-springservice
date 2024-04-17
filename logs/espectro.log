@@ -118,3 +118,38 @@ java.lang.IllegalArgumentException: Invalid character found in method name [0x16
 2024-04-16 23:15:02.000  INFO 15124 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : Producto BD: id: 2 codigo:TGH87D cantidad:2 total:224.0
 2024-04-16 23:15:50.141  INFO 15124 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : id = %s , codigo = %s, cantidad = %s, total = %s 
 2024-04-16 23:15:50.142  INFO 15124 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : Producto BD: id: 3 codigo:CRT67RR cantidad:9 total:874.0
+2024-04-16 23:18:54.559  INFO 12740 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 1.8.0_402 on SurfaceEleven with PID 12740 (C:\Users\Flixem\Desktop\ESPECTRE\Aplicaciones\Servicio Basico Spring Maven\espectro\target\classes started by Flixem in C:\Users\Flixem\Desktop\ESPECTRE\Aplicaciones\Servicio Basico Spring Maven\espectro)
+2024-04-16 23:18:54.562  INFO 12740 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to default profiles: default
+2024-04-16 23:18:55.538  INFO 12740 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3102 (http)
+2024-04-16 23:18:55.552  INFO 12740 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-16 23:18:55.553  INFO 12740 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2024-04-16 23:18:55.607  INFO 12740 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-16 23:18:55.608  INFO 12740 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 995 ms
+2024-04-16 23:18:56.032  INFO 12740 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3102 (http) with context path ''
+2024-04-16 23:18:56.044  INFO 12740 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 2.003 seconds (JVM running for 2.418)
+2024-04-16 23:19:02.833  INFO 12740 --- [http-nio-3102-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-16 23:19:02.834  INFO 12740 --- [http-nio-3102-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-16 23:19:02.837  INFO 12740 --- [http-nio-3102-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2024-04-16 23:19:05.283  INFO 12740 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : Successfully Connected.
+2024-04-16 23:19:05.498  INFO 12740 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : id = %s , codigo = %s, cantidad = %s, total = %s 
+2024-04-16 23:19:05.502  INFO 12740 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : Producto BD: id: 1 codigo:SFKL45M cantidad:23 total:451.0
+2024-04-16 23:19:05.503  INFO 12740 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : id = %s , codigo = %s, cantidad = %s, total = %s 
+2024-04-16 23:19:05.505  INFO 12740 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : Producto BD: id: 2 codigo:TGH87D cantidad:2 total:224.0
+2024-04-16 23:19:05.506  INFO 12740 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : id = %s , codigo = %s, cantidad = %s, total = %s 
+2024-04-16 23:19:05.507  INFO 12740 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : Producto BD: id: 3 codigo:CRT67RR cantidad:9 total:874.0
+2024-04-16 23:22:35.612  INFO 13152 --- [main] com.store.espectro.EspectroApplication   : Starting EspectroApplication using Java 1.8.0_402 on SurfaceEleven with PID 13152 (C:\Users\Flixem\Desktop\ESPECTRE\Aplicaciones\Servicio Basico Spring Maven\espectro\target\classes started by Flixem in C:\Users\Flixem\Desktop\ESPECTRE\Aplicaciones\Servicio Basico Spring Maven\espectro)
+2024-04-16 23:22:35.614  INFO 13152 --- [main] com.store.espectro.EspectroApplication   : No active profile set, falling back to default profiles: default
+2024-04-16 23:22:36.564  INFO 13152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3102 (http)
+2024-04-16 23:22:36.576  INFO 13152 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-16 23:22:36.576  INFO 13152 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2024-04-16 23:22:36.646  INFO 13152 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-16 23:22:36.647  INFO 13152 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 983 ms
+2024-04-16 23:22:37.326  INFO 13152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3102 (http) with context path ''
+2024-04-16 23:22:37.337  INFO 13152 --- [main] com.store.espectro.EspectroApplication   : Started EspectroApplication in 2.271 seconds (JVM running for 2.646)
+2024-04-16 23:22:47.129  INFO 13152 --- [http-nio-3102-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-16 23:22:47.130  INFO 13152 --- [http-nio-3102-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-16 23:22:47.131  INFO 13152 --- [http-nio-3102-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-16 23:22:47.277  INFO 13152 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : INSERT INTO store.productos  (id, codigo, cantidad, total) VALUES  (?, ?, ?, ? );
+2024-04-16 23:22:48.926  INFO 13152 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : Insertando
+2024-04-16 23:22:48.928  INFO 13152 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : Fin Insertando
+2024-04-16 23:22:49.180  INFO 13152 --- [http-nio-3102-exec-1] com.store.espectro.config.QueryGetAll    : Ejecucion con advetencia.
