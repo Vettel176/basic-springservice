@@ -22,6 +22,7 @@ public class QueryInsert {
     private static final String INSERT_PRODUCT_SQL = "INSERT INTO store.productos" +
         "  (id, codigo, cantidad, total) VALUES " +
         " (?, ?, ?, ? );";
+    private static final String DELETE_PRODUCT_SQL = "DELETE from store.productos WHERE id = ?;";
 
 
     public String saveProduct(ProductoDto productoDto) throws SQLException {
@@ -43,6 +44,29 @@ public class QueryInsert {
         } catch (SQLException e) {
             mensaje = "Salieron unos errores al intentar guardar, favor de revisar.";
             logger.info("Ejecucion con advetencia.");
+            // print SQL exception information
+            printSQLException(e);
+        }
+        return mensaje;
+
+        // Step 4: try-with-resource statement will auto close the connection.
+    }
+
+    public String delete(Integer id) throws SQLException {
+        logger.info(DELETE_PRODUCT_SQL);
+        String mensaje ="Se eliminó correctamente el producto";
+        // Step 1: Establishing a Connection
+        try (Connection connection = DriverManager.getConnection(url, user, password);
+            // Step 2:Create a statement using connection object
+            PreparedStatement preparedStatement = connection.prepareStatement(DELETE_PRODUCT_SQL)) {
+                 logger.info("Eliminando");
+                 preparedStatement.setLong(1, id);
+            // Step 3: Execute the query or save or update query
+            preparedStatement.execute();
+            logger.info("Fin excecution");
+        } catch (SQLException e) {
+            mensaje = "Salieron unos errores al intentar eliminar, favor de revisar.";
+            logger.info("Ejecucion con advertencia.");
             // print SQL exception information
             printSQLException(e);
         }

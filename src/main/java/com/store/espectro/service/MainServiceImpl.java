@@ -60,6 +60,16 @@ public class MainServiceImpl implements MainService {
         return listProductoDtosOrdered;
     }
 
+    @Override
+    public String delete(Integer id) {
+        String mensaje = "";
+        try{
+            mensaje = save.delete(id);
+        }catch(Exception e){
+            System.out.println("Valio verga");
+        }        
+       return mensaje;
+    }
     
     
 }

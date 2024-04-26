@@ -10,4 +10,5 @@ public interface MainService {
     PruebaDto prueba();
     ResponseDto saveProduct(ProductoDto productoDto);
     List<ProductoDto> findAllProducts();
+    String delete(Integer id);
 }
